@@ -12,7 +12,7 @@ Prep Time: 10 minutes
 Cooking Time: 30 minutes  
 Total: 40 minutes
 
-[{{< image src="/images/risotto.jpg" alt="risotto.jpg" position="center" style="border-radius: 8px;" >}}](/images/risotto.jpg)
+{{< image src="https://i.postimg.cc/WzF6tckv/risotto.png" alt="risotto.jpg" position="center" style="border-radius: 8px;" >}}
 
 ## Ingredients
 

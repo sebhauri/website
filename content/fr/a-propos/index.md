@@ -8,7 +8,7 @@ Je termine actuellement un master en cybersécurité à l'EPFL. J'ai terminé to
 
 Je suis passioné de cryptographie, des systèmes décentralisés, de cuisine et tout ce qui touche à la "privacy", soit défendre sa vie privée. J'aime aussi le football, la randonnée en montagne et le ski.
 
-[{{< image src="/images/morcles.jpg" alt="morcles.jpg" position="center" style="border-radius: 8px;" >}}](/images/morcles.jpg)
+{{< image src="https://i.postimg.cc/9Q0DPYfx/morcles.jpg" alt="morcles.jpg" position="center" style="border-radius: 8px;" >}}
 
 Dans notre domaine, il est vraiment important de se déconnecter et prendre un bon bol d'air frais. C'est en Valais, chez moi, que je peux prendre ce temps et à chaque fois que j'y rentre, je me demande pourquoi les _Dents du Midi_ ne sont pas listées dans les merveilles du monde.
 
