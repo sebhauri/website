@@ -8,7 +8,7 @@ I am currently finishing a master in cybersecurity at EPFL. I have completed all
 
 I'm passionate about cryptography, decentralized systems, cooking and everything related to privacy. I also like football, trekking and skiing.
 
-[{{< image src="/images/morcles.jpg" alt="morcles" position="center" style="border-radius: 8px;" >}}](/images/morcles.jpg)
+[{{< image src="/images/morcles.jpg" alt="morcles.jpg" position="center" style="border-radius: 8px;" >}}](/images/morcles.jpg)
 
 Whenever I have time, I try to spend it in the mountains. In our field, it is really important to disconnect and take a breath of fresh air. It is in Valais, at home, that I can take this time and every time I come back, I wonder why the _Dents du Midi_ are not listed in the wonders of the world.
 
