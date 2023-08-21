@@ -21,7 +21,7 @@ Dans notre domaine, il est vraiment important de se déconnecter et prendre un b
 
 ## Recherche
 
-- "*Post-qauntum anonymous tokens*"  
+- "*Post-quantum anonymous tokens*"  
 Master thesis @ EPFL, Security and Cryptography Laboratory
 - "[*SAS-based authentication for secure messaging*](/files/sas-based-auth.pdf)"  
 Master semester project @ EPFL, Security and Cryptography Laboratory

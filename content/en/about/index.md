@@ -21,7 +21,7 @@ Whenever I have time, I try to spend it in the mountains. In our field, it is re
 
 ## Research
 
-- "*Post-qauntum anonymous tokens*"  
+- "*Post-quantum anonymous tokens*"  
 Master thesis @ EPFL, Security and Cryptography Laboratory
 - "[*SAS-based authentication for secure messaging*](/files/sas-based-auth.pdf)"  
 Master semester project @ EPFL, Security and Cryptography Laboratory
