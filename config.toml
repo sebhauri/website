@@ -84,7 +84,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 				identifier = "blog"
 				weight = 2
 				name = "Blog"
-				url = "/blog"
+				url = "/posts"
 
 			[[languages.fr.menu.main]]
 				identifier = "recipes"
@@ -129,7 +129,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 				identifier = "blog"
 				weight = 2
 				name = "Blog"
-				url = "/en/blog"
+				url = "/en/posts"
 
 			[[languages.en.menu.main]]
 				identifier = "recipes"
