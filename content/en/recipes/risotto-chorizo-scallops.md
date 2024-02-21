@@ -16,7 +16,7 @@ Total: 40 minutes
 
 ## Ingredients
 
-#### Risotto
+### Risotto
 - 200g risotto rice (Carnaroli)
 - 25g of chorizo
 - 1 onion
