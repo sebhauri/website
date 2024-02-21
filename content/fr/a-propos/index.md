@@ -4,8 +4,6 @@ draft: false
 translationKey: about
 ---
 
-Je termine actuellement un master en cybersécurité à l'EPFL. J'ai terminé tous mes cours obligatoires et j'effectue actuellement mon projet de master auprès du [LASEC](https://lasec.epfl.ch) sur le sujet des tokens d'authentification anonymes à cryptographie post-quantique. A la suite de ce dernier, j'obtiendrai un diplôme d'ingénieur en cybersécurité.
-
 Je suis passioné de cryptographie, des systèmes décentralisés, de cuisine et tout ce qui touche à la "privacy", soit défendre sa vie privée. J'aime aussi le football, la randonnée en montagne et le ski.
 
 {{< image src="https://i.postimg.cc/9Q0DPYfx/morcles.jpg" alt="morcles.jpg" position="center" style="border-radius: 8px;" >}}
@@ -30,9 +28,9 @@ Bachelor project @ EPFL, Information Theory Laboratory
 
 ## Parcours académique
 
-[08.2022 - 02.2023] **Master of science MSc - Cybersécurité**, *ETH Zürich*
+[08.2022 - 02.2023] **Master of science MSc - Cybersécurité**, *ETHZ*
 : Semestre d'échange durant le master
 
-[02.2021 - 02.2023] **Master of science MSc - Cybersécurité**, *EPF Lausanne*
+[02.2021 - 02.2024] **Master of science MSc - Cybersécurité**, *EPFL*
 
-[09.2017 - 02.2021] **Bachelor of science BSc - Systèmes de communication**, *EPF Lausanne*
+[09.2017 - 02.2021] **Bachelor of science BSc - Systèmes de communication**, *EPFL*

@@ -11,16 +11,17 @@ dateFormatList = "2006-01-02"
 #lastModDisplay = ""
 copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-[author]
-	name = "Sébastien Hauri"
 
 [params]
 	defaultTheme = 'dark'
 	enableThemeToggle = true
 	enableGlobalLanguageMenu = true
 	#showMenuItems = 3
-	homeSubtitle = 'Master student in cybersecurity'
+	homeSubtitle = 'MSc en Informatique - Cybersécurité'
 	justifyContent = false
+
+	[params.author]
+		name = "Sébastien Hauri"
 
 	[params.footer]
 		trademark = true
@@ -113,6 +114,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 			newerPosts = "Newer posts"
 			olderPosts = "Older posts"
 			minuteReadingTime = "min read"
+			homeSubtitle = 'MSc in Computer Science - Cybersecurity'
 
 		[languages.en.params.logo]
 			logoText = "home"

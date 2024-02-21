@@ -4,8 +4,6 @@ draft: false
 translationKey: about
 ---
 
-I am currently finishing a master in cybersecurity at EPFL. I have completed all my compulsory courses and I am currently doing my master thesis at [LASEC](https://lasec.epfl.ch) on post-quantum anonymous tokens.
-
 I'm passionate about cryptography, decentralized systems, cooking and everything related to privacy. I also like football, trekking and skiing.
 
 {{< image src="https://i.postimg.cc/9Q0DPYfx/morcles.jpg" alt="morcles.jpg" position="center" style="border-radius: 8px;" >}}
@@ -14,7 +12,7 @@ Whenever I have time, I try to spend it in the mountains. In our field, it is re
 
 ## Work
 
-[03.2023 - 08.2023] **Backend security intern**, [*SwissBorg*](https://swissborg.com/), *Lausanne*
+[03.2023 - 08.2023] **Intern security engineer**, [*SwissBorg*](https://swissborg.com/), *Lausanne*
 
 [02.2022 – 06.2022] **Teaching assistant**, [*UNIL, HEC*](https://www.unil.ch/hec/en/home.html), *Lausanne*
 : Course : *Technical and economic aspects of cybersecurity*
@@ -30,9 +28,9 @@ Bachelor project @ EPFL, Information Theory Laboratory
 
 ## Education
 
-[08.2022 - 02.2023] **Master of science MSc - Cybersecurity**, *ETH Zürich*
+[08.2022 - 02.2023] **Master of science MSc - Cybersecurity**, *ETHZ*
 : Exchange semester during the master
 
-[02.2021 - 02.2023] **Master of science MSc - Cybersecurity**, *EPF Lausanne*
+[02.2021 - 02.2024] **Master of science MSc - Cybersecurity**, *EPFL*
 
-[09.2017 - 02.2021] **Bachelor of science BSc - Communication systems**, *EPF Lausanne*
+[09.2017 - 02.2021] **Bachelor of science BSc - Communication systems**, *EPFL*
