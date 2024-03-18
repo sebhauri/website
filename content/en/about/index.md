@@ -12,6 +12,8 @@ Whenever I have time, I try to spend it in the mountains. In our field, it is re
 
 ## Work
 
+[03.2024 - ##.####] **Security engineer**, [*SwissBorg*](https://swissborg.com/), *Lausanne*
+
 [03.2023 - 08.2023] **Intern security engineer**, [*SwissBorg*](https://swissborg.com/), *Lausanne*
 
 [02.2022 – 06.2022] **Teaching assistant**, [*UNIL, HEC*](https://www.unil.ch/hec/en/home.html), *Lausanne*

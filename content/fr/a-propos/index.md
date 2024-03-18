@@ -12,7 +12,9 @@ Dans notre domaine, il est vraiment important de se déconnecter et prendre un b
 
 ## Expérience professionnelle
 
-[03.2023 - 08.2023] **Intern security engineer**, [*SwissBorg*](https://swissborg.com/), *Lausanne*
+[03.2024 - ##.####] **Security engineer**, [*SwissBorg*](https://swissborg.com/fr), *Lausanne*
+
+[03.2023 - 08.2023] **Intern security engineer**, [*SwissBorg*](https://swissborg.com/fr), *Lausanne*
 
 [02.2022 – 06.2022] **Assistant étudiant**, [*UNIL, HEC*](https://www.unil.ch/hec/home.html), *Lausanne*
 : Cours : *Technical and economic aspects of cybersecurity*
